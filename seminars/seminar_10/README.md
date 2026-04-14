@@ -20,8 +20,7 @@ You will work with real vector data (fire probability grids and administrative b
 ```
 seminar_10/
 │
-├── presentation/
-│   └── FRS_Course._Seminar_QGIS_report.pdf
+├── FRS_Course._Seminar_QGIS_report.pdf 
 │
 ├── data/
 │   ├── fire_probability_01032025.geojson
