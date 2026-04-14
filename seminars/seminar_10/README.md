@@ -21,12 +21,10 @@ You will work with real vector data (fire probability grids and administrative b
 seminar_10/
 │
 ├── FRS_Course._Seminar_QGIS_report.pdf 
-│
-├── data/
-│   ├── fire_probability_01032025.geojson
-│   ├── primorskiy_region.geojson
-│   ├── baseline_vit_Siberian_FINAL_Nesterov_14_lightning_GFS_Sib_2019-03-31_00_00_00.geojson
-│   └── example.pdf
+├── fire_probability_01032025.geojson
+├── primorskiy_region.geojson
+├── baseline_vit_Siberian_FINAL_Nesterov_14_lightning_GFS_Sib_2019-03-31_00_00_00.geojson
+├── example.pdf
 │
 └── README.md
 ```
